@@ -1,0 +1,13 @@
+C:\Users\Aleena\source\repos\Classy\Classy\obj\Debug\netcoreapp3.1\Classy.csprojAssemblyReference.cache
+C:\Users\Aleena\source\repos\Classy\Classy\obj\Debug\netcoreapp3.1\Classy.AssemblyInfoInputs.cache
+C:\Users\Aleena\source\repos\Classy\Classy\obj\Debug\netcoreapp3.1\Classy.AssemblyInfo.cs
+C:\Users\Aleena\source\repos\Classy\Classy\obj\Debug\netcoreapp3.1\Classy.csproj.CoreCompileInputs.cache
+C:\Users\Aleena\source\repos\Classy\Classy\bin\Debug\netcoreapp3.1\Classy.exe
+C:\Users\Aleena\source\repos\Classy\Classy\bin\Debug\netcoreapp3.1\Classy.deps.json
+C:\Users\Aleena\source\repos\Classy\Classy\bin\Debug\netcoreapp3.1\Classy.runtimeconfig.json
+C:\Users\Aleena\source\repos\Classy\Classy\bin\Debug\netcoreapp3.1\Classy.runtimeconfig.dev.json
+C:\Users\Aleena\source\repos\Classy\Classy\bin\Debug\netcoreapp3.1\Classy.dll
+C:\Users\Aleena\source\repos\Classy\Classy\bin\Debug\netcoreapp3.1\Classy.pdb
+C:\Users\Aleena\source\repos\Classy\Classy\obj\Debug\netcoreapp3.1\Classy.dll
+C:\Users\Aleena\source\repos\Classy\Classy\obj\Debug\netcoreapp3.1\Classy.pdb
+C:\Users\Aleena\source\repos\Classy\Classy\obj\Debug\netcoreapp3.1\Classy.genruntimeconfig.cache
