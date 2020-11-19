@@ -20,7 +20,8 @@ namespace Classy
 
 
             //EXERCISE 1 - Code for calculating distance between Points
-            /* string input;
+            /*string input;
+            Console.WriteLine("Let's calculate the distance between your coordinate and 0,0 on a graph.");
             Console.Write("Please enter the value for X: ");
             input = Console.ReadLine();
             var x = int.Parse(input);
