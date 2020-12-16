@@ -24,6 +24,7 @@ namespace Classy
         public double CalculateArea()
         {
             int area = SideLength * SideLength;
+            //int area = Math.Pow(SideLength, 2);
             return area;
         }
 

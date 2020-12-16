@@ -16,15 +16,25 @@ namespace Classy
             var perimeter = square.CalculatePerimeter();
             Console.WriteLine($"You entered: {input}");
             Console.WriteLine($"Your square's area: {area}");
-            Console.WriteLine($"Your square's area: {perimeter}");
+            Console.WriteLine($"Your square's perimeter: {perimeter}");
+
+            //just another way to read out calculations for exercise 2
+            //Console.Write("Enter the length of your square's side: ");
+            //string input = Console.ReadLine();
+            //var side = int.Parse(input);
+            //Square square = new Square(side);
+            //Console.WriteLine("Your square's area: " + square.CalculateArea());
+            //Console.WriteLine("Your square's perimeter: " + square.CalculatePerimeter());
 
 
             //EXERCISE 1 - Code for calculating distance between Points
             /*string input;
-            Console.WriteLine("Let's calculate the distance between your coordinate and 0,0 on a graph.");
-            Console.Write("Please enter the value for X: ");
-            input = Console.ReadLine();
-            var x = int.Parse(input);
+             * 
+              Start:
+              Console.WriteLine("Let's calculate the distance between your coordinate and 0,0 on a graph.");
+              Console.Write("Please enter an integer the value for X: ");
+              input = Console.ReadLine();
+              var x = int.Parse(input);
 
             Console.Write("Please enter the value for Y: ");
             input = Console.ReadLine();
@@ -36,7 +46,10 @@ namespace Classy
 
             //calculate the distance
             double answer = point.CalculateDistance();
-            Console.WriteLine($"The distance between your point and the origin is: {answer}"); */
+            Console.WriteLine($"The distance between your point and the origin is: {answer}"); 
+            
+             goto Start;
+             */
 
             //Example constructors
             /*  Point point1 = new Point(3, 5);
