@@ -12,3 +12,15 @@ Exercise 2 in action: https://repl.it/@tumbaleena/Classes-Exercise-2
 ------------------------------
 
 More information on classes: https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/classes
+
+The anatomy of a class: https://www.tutorialsteacher.com/csharp/csharp-class
+
+Why we don't use the same name for our parameter and field: https://docs.microsoft.com/en-us/visualstudio/code-quality/ca1500?view=vs-2019
+
+------------------------------
+
+C# Fundamentals tutorial on Channel 9: https://channel9.msdn.com/Series/CSharp-Fundamentals-for-Absolute-Beginners
+
+C# on Microsoft Learn: https://docs.microsoft.com/en-us/learn/paths/csharp-first-steps/
+
+C# on freeCodeCamp: https://www.freecodecamp.org/news/search/?query=C%23
