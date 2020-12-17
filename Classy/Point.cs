@@ -9,8 +9,14 @@ namespace Classy
 
     class Point
     {
-        public int X { get; set; }
-        public int Y { get; set; }
+        private int _x;
+        private int _y;
+
+        //public int X { get; set; }
+        //public int Y { get; set; }
+
+        public int X { get { return _x; } set { _x = value; }  }
+        public int Y { get { return _y; } set { _y = value; } }
 
         //public Point()
         //{
@@ -42,6 +48,12 @@ namespace Classy
             double b2 = Y * Y;
             double c2 = a2 + b2;
             return Math.Sqrt(c2);
+        }
+
+        public double AnotherCalculateDistance1()
+        {
+            double distance = Math.Sqrt(X * X + Y * Y);
+            return distance;
         }
     }
 }

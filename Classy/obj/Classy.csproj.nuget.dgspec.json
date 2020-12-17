@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Aleena\\Source\\Repos\\ITC-Classes\\Classy\\Classy.csproj": {}
+    "C:\\Users\\Aleena\\source\\repos\\ITC-Classes\\Classy\\Classy.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Aleena\\Source\\Repos\\ITC-Classes\\Classy\\Classy.csproj": {
+    "C:\\Users\\Aleena\\source\\repos\\ITC-Classes\\Classy\\Classy.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Aleena\\Source\\Repos\\ITC-Classes\\Classy\\Classy.csproj",
+        "projectUniqueName": "C:\\Users\\Aleena\\source\\repos\\ITC-Classes\\Classy\\Classy.csproj",
         "projectName": "Classy",
-        "projectPath": "C:\\Users\\Aleena\\Source\\Repos\\ITC-Classes\\Classy\\Classy.csproj",
+        "projectPath": "C:\\Users\\Aleena\\source\\repos\\ITC-Classes\\Classy\\Classy.csproj",
         "packagesPath": "C:\\Users\\Aleena\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Aleena\\Source\\Repos\\ITC-Classes\\Classy\\obj\\",
+        "outputPath": "C:\\Users\\Aleena\\source\\repos\\ITC-Classes\\Classy\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
